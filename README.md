@@ -1,5 +1,5 @@
 # Logger library
-Simple ans fast logging library for backend project
+Simple and fast logging library for backend project
 
 # Quick start 
 ```js
