@@ -1,0 +1,23 @@
+{
+  "name": "log-nodejs",
+  "version": "1.0.0",
+  "description": "Simple and fast logging library for backend project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LapinDeNeige/log-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LapinDeNeige/log-nodejs/issues"
+  },
+  "homepage": "https://github.com/LapinDeNeige/log-nodejs#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "logger": "file:lib/logger"
+  }
+}

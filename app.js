@@ -14,6 +14,6 @@ app.get('/',(request,response)=>{
 
 const PORT = 8080;
 app.listen(PORT,()=>{
-	console.log("Server is listening ON ${PORT}");
+	console.log(`Server is listening ON ${PORT}`);
 
 });
