@@ -14,7 +14,7 @@ logger.log("Message to log");
 * Date and time are added
 
 # Installation
-Copy library file file into project's directory and write
+Copy library file file into project's directory ```bash lib/``` and write
 
 ```bash
 npm install
