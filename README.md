@@ -17,7 +17,7 @@ logger.log("Message to log");
 Copy library file file into project's directory ```lib/``` and write
 
 ```bash
-npm install
+npm install --save lib/logger
 ``` 
 
 # Examples
