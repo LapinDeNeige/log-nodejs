@@ -14,12 +14,9 @@ logger.log("Message to log");
 * Date and time are added
 
 # Installation
-Copy library file file into project's directory ```lib/``` and write
+1) Copy library file file into project's directory ```lib/``` 
 
-```bash
-npm install --save lib/logger
-``` 
-Or just copy ``` "logger": "file:lib/logger"``` and ``` "date": "file:lib/date"``` into ```package.json``` file of project and type 
+2) Copy ``` "logger": "file:lib/logger"``` and ``` "date": "file:lib/date"``` into ```package.json``` file of project and type 
 ```bash 
 	npm install
 ```
