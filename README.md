@@ -19,7 +19,7 @@ Copy library file file into project's directory ```lib/``` and write
 ```bash
 npm install --save lib/logger
 ``` 
-Or just copy ``` "logger": "file:lib/logger"``` into ```package.json``` file of project and type 
+Or just copy ``` "logger": "file:lib/logger"``` and ``` "date": "file:lib/date"``` into ```package.json``` file of project and type 
 ```bash 
 	npm install
 ```
