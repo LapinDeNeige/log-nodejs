@@ -18,6 +18,7 @@
   "homepage": "https://github.com/LapinDeNeige/log-nodejs#readme",
   "dependencies": {
     "express": "^5.2.1",
-    "logger": "file:lib/logger"
+    "logger": "file:lib/logger",
+    "date": "file:lib/date"
   }
 }
